@@ -1,6 +1,6 @@
 # 50-ispalindrome
 ## Description
-Project aims to create a project which gives us if our number is palindrome or not
+Project aims to create a project which gives us if our word is palindrome or not
 ## Project Skeleton
 ```
 Progress-Steps (folder)
