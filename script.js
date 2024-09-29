@@ -9,7 +9,7 @@ button.addEventListener("click", () => {
     alert("Input cannot be empty");
   }
   const cleanText = text.replace(/[^a-zA-Z0-9]/g, "").toLowerCase();
-  const isPalindrome = cleanText === cleanText.split("").reverse("").join("");
+  // const isPalindrome = cleanText === cleanText.split("").reverse("").join("");
 
   const message = isPalindrome
     ? `<span>Yes.</span>It's a palindrome!`
